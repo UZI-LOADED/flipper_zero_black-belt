@@ -1,0 +1,2 @@
+Sector 1 (Before): FF078069
+Sector 1 (After): A0780F69
