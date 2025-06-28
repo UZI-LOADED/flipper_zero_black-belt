@@ -1,4 +1,4 @@
-# flipper_zero_black-belt
+# flipper_zero_black-belt--------------------> USE BUILD .FAP
 Flipper zero weapon .fap
 1. Physical Access Bypass (RFID)
 Scenario: You walk up to a door that uses HID 125kHz badges.
